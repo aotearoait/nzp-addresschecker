@@ -1,6 +1,6 @@
 <?php
 
-namespace DShumkov\NzPostClient;
+namespace AotearoaIT\NzPostClient;
 use Exception;
 class NzPostClientAuthException extends Exception
 {
